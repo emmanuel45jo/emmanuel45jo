@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -163,7 +163,7 @@ function endGame() {
     clearInterval(intervalId);
     $container.classList.add("desaparecer")
     $timer.classList.add("desaparecer")
-    $title.textContent = "Oye te quería preguntar... ¿puedo ser tu novio? ❤️"
+    $title.textContent = "Oye te quería preguntar... ¿ quieres ser mi novia denuevo mi amor Natally ? ❤️"
   }
 }
 
@@ -223,7 +223,7 @@ $box6.querySelector('.back').textContent = "Leche";
 
   </script>
   <body>
-    <p id="timer" class="timer">Tiempo: 15s</p>
+    <p id="timer" class="timer">Tiempo: 30s</p>
     <h1 id="title">Encuentra las cosas que <br />deberían ir juntas 👀</h1>
     <div class="container" id="container" >
       <div class="section-1">
